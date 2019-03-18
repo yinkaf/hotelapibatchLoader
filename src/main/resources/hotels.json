@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Hotel1",
+    "description": "Hotel 1 description",
+    "cityCode": "lon",
+    "rooms": [
+      {
+        "description": "Basic Room"
+      },{
+        "description": "Double room"
+      },{
+        "description": "Executive Room"
+      }
+    ]
+  },
+
+  {
+    "name": "Hotel2",
+    "description": "Hotel 2 description",
+    "cityCode": "lon",
+    "rooms": [
+      {
+        "description": "Basic Room"
+      },{
+        "description": "Double room"
+      },{
+        "description": "Executive Room"
+      }
+    ]
+  },
+
+  {
+    "name": "Hotel3",
+    "description": "Hotel 3 description",
+    "cityCode": "lon",
+    "rooms": [
+      {
+        "description": "Basic Room"
+      },{
+        "description": "Double room"
+      },{
+        "description": "Executive Room"
+      }
+    ]
+  },
+
+  {
+    "name": "Hotel4",
+    "description": "Hotel 4 description",
+    "cityCode": "lon",
+    "rooms": [
+      {
+        "description": "Basic Room"
+      },{
+        "description": "Double room"
+      },{
+        "description": "Executive Room"
+      }
+    ]
+  },
+
+  {
+    "name": "Hotel5",
+    "description": "Hotel 5 description",
+    "cityCode": "lon",
+    "rooms": [
+      {
+        "description": "Basic Room"
+      },{
+        "description": "Double room"
+      },{
+        "description": "Executive Room"
+      }
+    ]
+  },
+
+  {
+    "name": "Hotel6",
+    "description": "Hotel 6 description",
+    "cityCode": "lon",
+    "rooms": [
+      {
+        "description": "Basic Room"
+      },{
+        "description": "Double room"
+      },{
+        "description": "Executive Room"
+      }
+    ]
+  },
+
+  {
+    "name": "Hotel7",
+    "description": "Hotel 7 description",
+    "cityCode": "lon",
+    "rooms": [
+      {
+        "description": "Basic Room"
+      },{
+        "description": "Double room"
+      },{
+        "description": "Executive Room"
+      }
+    ]
+  },
+
+  {
+    "name": "Hotel8",
+    "description": "Hotel 8 description",
+    "cityCode": "lon",
+    "rooms": [
+      {
+        "description": "Basic Room"
+      },{
+        "description": "Double room"
+      },{
+        "description": "Executive Room"
+      }
+    ]
+  },
+  {
+    "name": "Hotel9",
+    "description": "Hotel 9 description",
+    "cityCode": "nyc",
+    "rooms": [
+      {
+        "description": "Double bed Room"
+      }
+    ]
+  }
+]
