@@ -4,7 +4,7 @@ Hotel rest data upload
 
 This command line application allows Hotels and associated Rooms to be loaded in a batch.
 Hotels and Room data must be in a JSON file with the following structure.
-
+```json
   [
   {
     "name": "Hotel1",
@@ -36,3 +36,4 @@ Hotels and Room data must be in a JSON file with the following structure.
     ]
   }
   ]
+  ```
